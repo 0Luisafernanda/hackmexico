@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1260vorqeH3SzhMjMX1vfr5hpuRsuV28">
+	<name>Mapa sin nombre</name>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="string" name="str:bm9tYnJl">
+			<displayName>nombre</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="str:ZGVzY3JpcGNpw7Nu">
+			<displayName>descripción</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_2AEB3FE696301138E54E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=673ab7&amp;id=1555&amp;scale=4</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffb73a67</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4db73a67</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B071F5E9F301138E54E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1DAB8F2889301138E54E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2AEB3FE696301138E54E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1DAB8F2889301138E54E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=673ab7&amp;id=1555&amp;scale=4</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffb73a67</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4db73a67</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2058BDBF13301138E54D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1343794564301138E54D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D476BB314301138E54D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1343794564301138E54D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2058BDBF13301138E54D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="365b6dcb_0">
+		<name>endeavor</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0D476BB314301138E54D</styleUrl>
+		<Placemark id="365b6dcb_4CEE947ECEF15730">
+			<name>Prendalana Casa de Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Prendalana Casa de Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85ce02150b23c4c5:0xb264995fe7aec8b</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Prendalana Casa de Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.07251959999999,19.3161611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE948DF61556C5">
+			<name>Porvenir Casa de Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Porvenir Casa de Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1f1a3b1bf8fb7:0x3db4ad5f9e30c0af</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Porvenir Casa de Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0496675,19.5991656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE948FC35CD5DA">
+			<name>Casa de empeño monte palma</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa de empeño monte palma</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1ff196b41a8e9:0xb5db11b76f931214</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa de empeño monte palma</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1559458,19.4114709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9491636CC2E0">
+			<name>El Cerrito Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: El Cerrito Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1ff61527645ff:0x68ece7aa2d9927b2</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">El Cerrito Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18458199999999,19.4020669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9492D82C8C52">
+			<name>Casa de Empeño Mazal</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa de Empeño Mazal</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1f89840a04679:0xabbbaf46bd5449d7</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa de Empeño Mazal</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18560319999999,19.4584625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE949440752F1A">
+			<name>Monteamigo casa de empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Monteamigo casa de empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d203aadd8d7c05:0x985c9c00daa1271</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Monteamigo casa de empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.23548339999999,19.4729683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9495A851873C">
+			<name>Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d2005fc1c7561d:0xe6c247f0b333c960</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.232754,19.3589092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE949703217260">
+			<name>Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d200026dd3d075:0x7edb888956ce8a38</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19074820000002,19.3439503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94985DA272BF">
+			<name>Casa De Empeño San Francisco</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa De Empeño San Francisco</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85ce1cc9da05919f:0x565ea30b3f470581</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa De Empeño San Francisco</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0053068,19.2752127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9499E122CCD0">
+			<name>Casa De Empeño Montepio San Francisco</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa De Empeño Montepio San Francisco</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85cdffa90378fa27:0x9526bed6b5f52806</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa De Empeño Montepio San Francisco</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2309341,19.2956006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94CE2BF1E812">
+			<name>El Cerrito Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: El Cerrito Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1ff61527645ff:0x68ece7aa2d9927b2</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">El Cerrito Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1845622,19.4020583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94D50B0CD7F3">
+			<name>Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d200026dd3d075:0x7edb888956ce8a38</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19074820000002,19.3439503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94D668404A86">
+			<name>Prenda Mex Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Prenda Mex Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85ce02168b70ebd9:0x776a410a75ef23d3</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Prenda Mex Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0859696,19.3211753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94D7E9D253D0">
+			<name>Empeño Fácil Rojo Gómez</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil Rojo Gómez</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1fdb7a55a0891:0x1ba9443fc315364e</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil Rojo Gómez</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.07702289999999,19.3794017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94D9601FBAD3">
+			<name>Empeño Fácil Azcapotzalco Centro</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil Azcapotzalco Centro</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1f87e348a95d5:0xb73687a07c5b4fab</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil Azcapotzalco Centro</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.187028,19.479061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94DAE0BEA76E">
+			<name>Casa de Empeño Mazal</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa de Empeño Mazal</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1f89840a04679:0xabbbaf46bd5449d7</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa de Empeño Mazal</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18560319999999,19.4584625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94DC8B49EA2B">
+			<name>Casa de Empeño - Efectimundo en Portal Cuautitlán</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa de Empeño - Efectimundo en Portal Cuautitlán</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d21f987185f289:0xbcb4403d5c1dba74</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa de Empeño - Efectimundo en Portal Cuautitlán</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.22465990000001,19.6888588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94DF4F7BDEEB">
+			<name>FIRST CASH</name>
+			<description><![CDATA[<div><b>nombre</b>: FIRST CASH</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1fcdb99843e4f:0xd18ccf7981663c47</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">FIRST CASH</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.02863660000001,19.3994961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE94E0F91CF110">
+			<name>Empeño Fácil</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1ffc936cc25f9:0x4139edf87226ee56</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.15289199999999,19.3562974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE950FE5AEF1E4">
+			<name>Empeño Fácil</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1ff3e7fcaeef3:0xf6608cd0fec61d8d</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.16228599999999,19.411259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9523047A3E9F">
+			<name>Empeño Fácil Rojo Gómez</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil Rojo Gómez</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1fdb7a55a0891:0x1ba9443fc315364e</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil Rojo Gómez</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.07702289999999,19.3794017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9536C3AF9334">
+			<name>Empeño Fácil</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1fe09b021726d:0x18ac041444c51f58</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.10341090000001,19.3561073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE953FACC98487">
+			<name>Casa de Empeño Fundación Dondé</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa de Empeño Fundación Dondé</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1fdb659ed773b:0x5183b872d79e6199</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa de Empeño Fundación Dondé</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.07684440000001,19.3811187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9547931CCC84">
+			<name>Empeño Fácil Xalpa</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil Xalpa</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1fd381abe86a1:0x94cf5acac683587e</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil Xalpa</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.02112919999999,19.3456178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE954EF0BC514B">
+			<name>Empeño Fácil Azcapotzalco Centro</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil Azcapotzalco Centro</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d1f87e348a95d5:0xb73687a07c5b4fab</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil Azcapotzalco Centro</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.187028,19.479061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE9554231D4F9E">
+			<name>Empeño Fácil San Mateo Nopala</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil San Mateo Nopala</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d203ca00f68c9f:0xf0f8afccf3c7659</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil San Mateo Nopala</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2672594,19.5026424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE955A49E3066A">
+			<name>Casa De Empeño</name>
+			<description><![CDATA[<div><b>nombre</b>: Casa De Empeño</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d200026dd3d075:0x7edb888956ce8a38</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Casa De Empeño</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19074820000002,19.3439503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE955FC1E2FC29">
+			<name>EMPEÑO FACIL</name>
+			<description><![CDATA[<div><b>nombre</b>: EMPEÑO FACIL</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d201dcebc00f23:0x839a50128b7471b4</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">EMPEÑO FACIL</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1992075,19.40237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="365b6dcb_4CEE95665FD5EABB">
+			<name>Empeño Fácil</name>
+			<description><![CDATA[<div><b>nombre</b>: Empeño Fácil</div><div><b>descripción</b>: <i>vacío</i></div>]]></description>
+			<gx:fid>0x85d20038e9f3e415:0xfad947f67917e013</gx:fid>
+			<styleUrl>#__managed_style_0B071F5E9F301138E54E</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tYnJl">Empeño Fácil</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.21030789999998,19.3662422,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
